@@ -1,0 +1,44 @@
+team_name_raw,team_name_normalized,team_points,car_number,driver_full_name_raw,driver_full_name_normalized,nationality_code,nationality_name,driver_profile_url,source_url,source_collector
+MP Motorsport,mp_motorsport,251,23,Rocco Coronel,rocco coronel,NLD,Netherlands,https://f4spain.org/driver/rocco-coronel/,https://f4spain.org/f4-teams-2026/,arnav
+MP Motorsport,mp_motorsport,251,7,Felipe Reijs,felipe reijs,NLD,Netherlands,https://f4spain.org/driver/felipe-reijs/,https://f4spain.org/f4-teams-2026/,arnav
+MP Motorsport,mp_motorsport,251,40,Kasper Schormans,kasper schormans,NLD,Netherlands,https://f4spain.org/driver/kasper-schormans/,https://f4spain.org/f4-teams-2026/,arnav
+T-Code,t_code,211,17,Nacho Tuñón,nacho tunon,ESP,Spain,https://f4spain.org/driver/nacho-tunon/,https://f4spain.org/f4-teams-2026/,arnav
+T-Code,t_code,211,77,Andrej Petrovic,andrej petrovic,SRB,Serbia,https://f4spain.org/driver/andrej-petrovic/,https://f4spain.org/f4-teams-2026/,arnav
+Griffin Core,griffin_core,148,37,Ty Fisher,ty fisher,CAN,Canada,https://f4spain.org/driver/ty-fisher/,https://f4spain.org/f4-teams-2026/,arnav
+Griffin Core,griffin_core,148,81,Noah Monteiro,noah monteiro,PRT,Portugal,https://f4spain.org/driver/noah-monteiro/,https://f4spain.org/f4-teams-2026/,arnav
+Griffin Core,griffin_core,148,22,Vivek Kanthan,vivek kanthan,USA,United States,https://f4spain.org/driver/vivek-kanthan/,https://f4spain.org/f4-teams-2026/,arnav
+KCL Motorsport,kcl_motorsport,138,15,Jensen Burnett,jensen burnett,CAN,Canada,https://f4spain.org/driver/jensen-burnett/,https://f4spain.org/f4-teams-2026/,arnav
+KCL Motorsport,kcl_motorsport,138,21,Borys Lyzen,borys lyzen,POL,Poland,https://f4spain.org/driver/borys-lyzen/,https://f4spain.org/f4-teams-2026/,arnav
+KCL Motorsport,kcl_motorsport,138,39,Louis Cochet,louis cochet,FRA,France,https://f4spain.org/driver/louis-cochet/,https://f4spain.org/f4-teams-2026/,arnav
+Drivex,drivex,135,32,Simon Bulbarella,simon bulbarella,ARG,Argentina,https://f4spain.org/driver/simon-bulbarella/,https://f4spain.org/f4-teams-2026/,arnav
+Drivex,drivex,135,46,Nathan Tye,nathan tye,GBR,United Kingdom,https://f4spain.org/driver/nathan-tye/,https://f4spain.org/f4-teams-2026/,arnav
+Drivex,drivex,135,44,Elliot Kaczynski,elliot kaczynski,SWE,Sweden,https://f4spain.org/driver/elliot-kaczynski/,https://f4spain.org/f4-teams-2026/,arnav
+Tecnicar,tecnicar,70,25,Aleix Piñera,aleix pinera,ESP,Spain,https://f4spain.org/driver/aleix-pinera/,https://f4spain.org/f4-teams-2026/,arnav
+Tecnicar,tecnicar,70,18,Zoe Florescu,zoe florescu,ROU,Romania,https://f4spain.org/driver/zoe-florescu/,https://f4spain.org/f4-teams-2026/,arnav
+Tecnicar,tecnicar,70,13,Rodrigo Martínez,rodrigo martinez,MEX,Mexico,https://f4spain.org/driver/rodrigo-martinez/,https://f4spain.org/f4-teams-2026/,arnav
+Tecnicar,tecnicar,70,18,Max Mokarem,max mokarem,USA,United States,https://f4spain.org/driver/max-mokarem/,https://f4spain.org/f4-teams-2026/,arnav
+Campos Racing,campos_racing,37,8,Jacob Micallef,jacob micallef,MLT,Malta,https://f4spain.org/driver/jacob-micallef/,https://f4spain.org/f4-teams-2026/,arnav
+Campos Racing,campos_racing,37,10,Luna Fluxà,luna fluxa,ESP,Spain,https://f4spain.org/driver/luna-fluxa/,https://f4spain.org/f4-teams-2026/,arnav
+Campos Racing,campos_racing,37,38,Daniel Kelleher,daniel kelleher,IRL,Ireland,https://f4spain.org/driver/daniel-kelleher/,https://f4spain.org/f4-teams-2026/,arnav
+Monlau Motorsport,monlau_motorsport,21,88,Miki Blascos,miki blascos,ESP,Spain,https://f4spain.org/driver/miki-blascos/,https://f4spain.org/f4-teams-2026/,arnav
+Monlau Motorsport,monlau_motorsport,21,11,Rahim Alibhai,rahim alibhai,USA,United States,https://f4spain.org/driver/rahim-alibhai/,https://f4spain.org/f4-teams-2026/,arnav
+Monlau Motorsport,monlau_motorsport,21,73,Fausto Arnaudo,fausto arnaudo,ARG,Argentina,https://f4spain.org/driver/fausto-arnaudo/,https://f4spain.org/f4-teams-2026/,arnav
+Monlau Motorsport,monlau_motorsport,21,27,Alexander Chartier,alexander chartier,ITA,Italy,https://f4spain.org/driver/alexander-chartier/,https://f4spain.org/f4-teams-2026/,arnav
+Monlau Motorsport,monlau_motorsport,21,27,Yuzuki Sato,yuzuki sato,JPN,Japan,https://f4spain.org/driver/yuzuki-sato/,https://f4spain.org/f4-teams-2026/,arnav
+Monlau Motorsport,monlau_motorsport,21,27,Juste Mulder,juste mulder,NLD,Netherlands,https://f4spain.org/driver/juste-mulder/,https://f4spain.org/f4-teams-2026/,arnav
+DXR,dxr,6,80,Sebastián Frigolet,sebastian frigolet,MEX,Mexico,https://f4spain.org/driver/sebastian-frigolet/,https://f4spain.org/f4-teams-2026/,arnav
+DXR,dxr,6,28,Max Radeck,max radeck,PRT,Portugal,https://f4spain.org/driver/max-radeck/,https://f4spain.org/f4-teams-2026/,arnav
+DXR,dxr,6,71,Dean Pedersen,dean pedersen,USA,United States,https://f4spain.org/driver/dean-pedersen/,https://f4spain.org/f4-teams-2026/,arnav
+G4 Racing,g4_racing,4,9,Jean Paul Karras,jean paul karras,GRC,Greece,https://f4spain.org/driver/jean-paul-karras/,https://f4spain.org/f4-teams-2026/,arnav
+G4 Racing,g4_racing,4,12,Philippe Armand Karras,philippe armand karras,GRC,Greece,https://f4spain.org/driver/philippe-armand-karras/,https://f4spain.org/f4-teams-2026/,arnav
+G4 Racing,g4_racing,4,94,Jorden Moodley,jorden moodley,ZAF,South Africa,https://f4spain.org/driver/jorden-moodley/,https://f4spain.org/f4-teams-2026/,arnav
+TC Racing,tc_racing,0,24,Beau Lowette,beau lowette,BEL,Belgium,https://f4spain.org/driver/beau-lowette/,https://f4spain.org/f4-teams-2026/,arnav
+TC Racing,tc_racing,0,78,Maria Neto,maria neto,PRT,Portugal,https://f4spain.org/driver/maria-neto/,https://f4spain.org/f4-teams-2026/,arnav
+TC Racing,tc_racing,0,5,Sandro Pérez,sandro perez,ESP,Spain,https://f4spain.org/driver/sandro-perez/,https://f4spain.org/f4-teams-2026/,arnav
+TC Racing,tc_racing,0,5,Daniel Mota,daniel mota,ESP,Spain,https://f4spain.org/driver/daniel-mota/,https://f4spain.org/f4-teams-2026/,arnav
+TC Racing,tc_racing,0,71,Sam Urus,sam urus,MCO,Monaco,https://f4spain.org/driver/sam-urus/,https://f4spain.org/f4-teams-2026/,arnav
+GRS Team,grs_team,0,74,Pablo Riccobono,pablo riccobono,ESP,Spain,https://f4spain.org/driver/pablo-riccobono/,https://f4spain.org/f4-teams-2026/,arnav
+GRS Team,grs_team,0,83,Alfons Miettinen,alfons miettinen,FIN,Finland,https://f4spain.org/driver/alfons-miettinen/,https://f4spain.org/f4-teams-2026/,arnav
+GRS Team,grs_team,0,62,André Rodríguez,andre rodriguez,USA,United States,https://f4spain.org/driver/andre-rodriguez/,https://f4spain.org/f4-teams-2026/,arnav
+GRS Team,grs_team,0,96,Ryusho Nakazato,ryusho nakazato,JPN,Japan,https://f4spain.org/driver/ryusho-nakazato/,https://f4spain.org/f4-teams-2026/,arnav
+GRS Team,grs_team,0,71,Yani Stevenheydens,yani stevenheydens,BEL,Belgium,https://f4spain.org/driver/yani-stevenheydens/,https://f4spain.org/f4-teams-2026/,arnav

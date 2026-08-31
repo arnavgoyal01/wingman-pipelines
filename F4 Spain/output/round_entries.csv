@@ -1,0 +1,130 @@
+round_number,circuit,start_date,end_date,team,driver_number,driver_name,nationality,nationality_code
+5,Jerez,2026-09-25,2026-09-27,MP Motorsport,23,Rocco Coronel,Netherlands,nl
+5,Jerez,2026-09-25,2026-09-27,MP Motorsport,7,Felipe Reijs,Netherlands,nl
+5,Jerez,2026-09-25,2026-09-27,MP Motorsport,40,Kasper Schormans,Netherlands,nl
+5,Jerez,2026-09-25,2026-09-27,T-Code,17,Nacho Tuñón,Spain,es
+5,Jerez,2026-09-25,2026-09-27,T-Code,77,Andrej Petrovic,Serbia,rs
+5,Jerez,2026-09-25,2026-09-27,Griffin Core,37,Ty Fisher,Canada,ca
+5,Jerez,2026-09-25,2026-09-27,Griffin Core,81,Noah Monteiro,Portugal,pt
+5,Jerez,2026-09-25,2026-09-27,Griffin Core,22,Vivek Kanthan,United States,us
+5,Jerez,2026-09-25,2026-09-27,KCL Motorsport,15,Jensen Burnett,Canada,ca
+5,Jerez,2026-09-25,2026-09-27,KCL Motorsport,21,Borys Lyzen,Poland,pl
+5,Jerez,2026-09-25,2026-09-27,KCL Motorsport,39,Louis Cochet,France,fr
+5,Jerez,2026-09-25,2026-09-27,Drivex,32,Simon Bulbarella,Argentina,ar
+5,Jerez,2026-09-25,2026-09-27,Drivex,46,Nathan Tye,United Kingdom,gb
+5,Jerez,2026-09-25,2026-09-27,Drivex,44,Elliot Kaczynski,Sweden,se
+5,Jerez,2026-09-25,2026-09-27,Tecnicar,25,Aleix Piñera,Spain,es
+5,Jerez,2026-09-25,2026-09-27,Tecnicar,18,Zoe Florescu,Romania,ro
+5,Jerez,2026-09-25,2026-09-27,Tecnicar,13,Rodrigo Martínez,Mexico,mx
+5,Jerez,2026-09-25,2026-09-27,Tecnicar,18,Max Mokarem,United States,us
+5,Jerez,2026-09-25,2026-09-27,Campos Racing,8,Jacob Micallef,Malta,mt
+5,Jerez,2026-09-25,2026-09-27,Campos Racing,10,Luna Fluxà,Spain,es
+5,Jerez,2026-09-25,2026-09-27,Campos Racing,38,Daniel Kelleher,Ireland,ie
+5,Jerez,2026-09-25,2026-09-27,Monlau Motorsport,88,Miki Blascos,Spain,es
+5,Jerez,2026-09-25,2026-09-27,Monlau Motorsport,11,Rahim Alibhai,United States,us
+5,Jerez,2026-09-25,2026-09-27,Monlau Motorsport,73,Fausto Arnaudo,Argentina,ar
+5,Jerez,2026-09-25,2026-09-27,Monlau Motorsport,27,Alexander Chartier,Italy,it
+5,Jerez,2026-09-25,2026-09-27,Monlau Motorsport,27,Yuzuki Sato,Japan,jp
+5,Jerez,2026-09-25,2026-09-27,Monlau Motorsport,27,Juste Mulder,Netherlands,nl
+5,Jerez,2026-09-25,2026-09-27,G4 Racing,9,Jean Paul Karras,Greece,gr
+5,Jerez,2026-09-25,2026-09-27,G4 Racing,12,Philippe Armand Karras,Greece,gr
+5,Jerez,2026-09-25,2026-09-27,G4 Racing,94,Jorden Moodley,South Africa,za
+5,Jerez,2026-09-25,2026-09-27,DXR,80,Sebastián Frigolet,Mexico,mx
+5,Jerez,2026-09-25,2026-09-27,DXR,28,Max Radeck,Portugal,pt
+5,Jerez,2026-09-25,2026-09-27,DXR,71,Dean Pedersen,United States,us
+5,Jerez,2026-09-25,2026-09-27,TC Racing,24,Beau Lowette,Belgium,be
+5,Jerez,2026-09-25,2026-09-27,TC Racing,78,Maria Neto,Portugal,pt
+5,Jerez,2026-09-25,2026-09-27,TC Racing,5,Sandro Pérez,Spain,es
+5,Jerez,2026-09-25,2026-09-27,TC Racing,5,Daniel Mota,Spain,es
+5,Jerez,2026-09-25,2026-09-27,TC Racing,71,Sam Urus,Monaco,mc
+5,Jerez,2026-09-25,2026-09-27,GRS Team,74,Pablo Riccobono,Spain,es
+5,Jerez,2026-09-25,2026-09-27,GRS Team,83,Alfons Miettinen,Finland,fi
+5,Jerez,2026-09-25,2026-09-27,GRS Team,62,André Rodríguez,United States,us
+5,Jerez,2026-09-25,2026-09-27,GRS Team,96,Ryusho Nakazato,Japan,jp
+5,Jerez,2026-09-25,2026-09-27,GRS Team,71,Yani Stevenheydens,Belgium,be
+6,Navarra,2026-10-09,2026-10-11,MP Motorsport,23,Rocco Coronel,Netherlands,nl
+6,Navarra,2026-10-09,2026-10-11,MP Motorsport,7,Felipe Reijs,Netherlands,nl
+6,Navarra,2026-10-09,2026-10-11,MP Motorsport,40,Kasper Schormans,Netherlands,nl
+6,Navarra,2026-10-09,2026-10-11,T-Code,17,Nacho Tuñón,Spain,es
+6,Navarra,2026-10-09,2026-10-11,T-Code,77,Andrej Petrovic,Serbia,rs
+6,Navarra,2026-10-09,2026-10-11,Griffin Core,37,Ty Fisher,Canada,ca
+6,Navarra,2026-10-09,2026-10-11,Griffin Core,81,Noah Monteiro,Portugal,pt
+6,Navarra,2026-10-09,2026-10-11,Griffin Core,22,Vivek Kanthan,United States,us
+6,Navarra,2026-10-09,2026-10-11,KCL Motorsport,15,Jensen Burnett,Canada,ca
+6,Navarra,2026-10-09,2026-10-11,KCL Motorsport,21,Borys Lyzen,Poland,pl
+6,Navarra,2026-10-09,2026-10-11,KCL Motorsport,39,Louis Cochet,France,fr
+6,Navarra,2026-10-09,2026-10-11,Drivex,32,Simon Bulbarella,Argentina,ar
+6,Navarra,2026-10-09,2026-10-11,Drivex,46,Nathan Tye,United Kingdom,gb
+6,Navarra,2026-10-09,2026-10-11,Drivex,44,Elliot Kaczynski,Sweden,se
+6,Navarra,2026-10-09,2026-10-11,Tecnicar,25,Aleix Piñera,Spain,es
+6,Navarra,2026-10-09,2026-10-11,Tecnicar,18,Zoe Florescu,Romania,ro
+6,Navarra,2026-10-09,2026-10-11,Tecnicar,13,Rodrigo Martínez,Mexico,mx
+6,Navarra,2026-10-09,2026-10-11,Tecnicar,18,Max Mokarem,United States,us
+6,Navarra,2026-10-09,2026-10-11,Campos Racing,8,Jacob Micallef,Malta,mt
+6,Navarra,2026-10-09,2026-10-11,Campos Racing,10,Luna Fluxà,Spain,es
+6,Navarra,2026-10-09,2026-10-11,Campos Racing,38,Daniel Kelleher,Ireland,ie
+6,Navarra,2026-10-09,2026-10-11,Monlau Motorsport,88,Miki Blascos,Spain,es
+6,Navarra,2026-10-09,2026-10-11,Monlau Motorsport,11,Rahim Alibhai,United States,us
+6,Navarra,2026-10-09,2026-10-11,Monlau Motorsport,73,Fausto Arnaudo,Argentina,ar
+6,Navarra,2026-10-09,2026-10-11,Monlau Motorsport,27,Alexander Chartier,Italy,it
+6,Navarra,2026-10-09,2026-10-11,Monlau Motorsport,27,Yuzuki Sato,Japan,jp
+6,Navarra,2026-10-09,2026-10-11,Monlau Motorsport,27,Juste Mulder,Netherlands,nl
+6,Navarra,2026-10-09,2026-10-11,G4 Racing,9,Jean Paul Karras,Greece,gr
+6,Navarra,2026-10-09,2026-10-11,G4 Racing,12,Philippe Armand Karras,Greece,gr
+6,Navarra,2026-10-09,2026-10-11,G4 Racing,94,Jorden Moodley,South Africa,za
+6,Navarra,2026-10-09,2026-10-11,DXR,80,Sebastián Frigolet,Mexico,mx
+6,Navarra,2026-10-09,2026-10-11,DXR,28,Max Radeck,Portugal,pt
+6,Navarra,2026-10-09,2026-10-11,DXR,71,Dean Pedersen,United States,us
+6,Navarra,2026-10-09,2026-10-11,TC Racing,24,Beau Lowette,Belgium,be
+6,Navarra,2026-10-09,2026-10-11,TC Racing,78,Maria Neto,Portugal,pt
+6,Navarra,2026-10-09,2026-10-11,TC Racing,5,Sandro Pérez,Spain,es
+6,Navarra,2026-10-09,2026-10-11,TC Racing,5,Daniel Mota,Spain,es
+6,Navarra,2026-10-09,2026-10-11,TC Racing,71,Sam Urus,Monaco,mc
+6,Navarra,2026-10-09,2026-10-11,GRS Team,74,Pablo Riccobono,Spain,es
+6,Navarra,2026-10-09,2026-10-11,GRS Team,83,Alfons Miettinen,Finland,fi
+6,Navarra,2026-10-09,2026-10-11,GRS Team,62,André Rodríguez,United States,us
+6,Navarra,2026-10-09,2026-10-11,GRS Team,96,Ryusho Nakazato,Japan,jp
+6,Navarra,2026-10-09,2026-10-11,GRS Team,71,Yani Stevenheydens,Belgium,be
+7,Montmelo,2026-11-06,2026-11-08,MP Motorsport,23,Rocco Coronel,Netherlands,nl
+7,Montmelo,2026-11-06,2026-11-08,MP Motorsport,7,Felipe Reijs,Netherlands,nl
+7,Montmelo,2026-11-06,2026-11-08,MP Motorsport,40,Kasper Schormans,Netherlands,nl
+7,Montmelo,2026-11-06,2026-11-08,T-Code,17,Nacho Tuñón,Spain,es
+7,Montmelo,2026-11-06,2026-11-08,T-Code,77,Andrej Petrovic,Serbia,rs
+7,Montmelo,2026-11-06,2026-11-08,Griffin Core,37,Ty Fisher,Canada,ca
+7,Montmelo,2026-11-06,2026-11-08,Griffin Core,81,Noah Monteiro,Portugal,pt
+7,Montmelo,2026-11-06,2026-11-08,Griffin Core,22,Vivek Kanthan,United States,us
+7,Montmelo,2026-11-06,2026-11-08,KCL Motorsport,15,Jensen Burnett,Canada,ca
+7,Montmelo,2026-11-06,2026-11-08,KCL Motorsport,21,Borys Lyzen,Poland,pl
+7,Montmelo,2026-11-06,2026-11-08,KCL Motorsport,39,Louis Cochet,France,fr
+7,Montmelo,2026-11-06,2026-11-08,Drivex,32,Simon Bulbarella,Argentina,ar
+7,Montmelo,2026-11-06,2026-11-08,Drivex,46,Nathan Tye,United Kingdom,gb
+7,Montmelo,2026-11-06,2026-11-08,Drivex,44,Elliot Kaczynski,Sweden,se
+7,Montmelo,2026-11-06,2026-11-08,Tecnicar,25,Aleix Piñera,Spain,es
+7,Montmelo,2026-11-06,2026-11-08,Tecnicar,18,Zoe Florescu,Romania,ro
+7,Montmelo,2026-11-06,2026-11-08,Tecnicar,13,Rodrigo Martínez,Mexico,mx
+7,Montmelo,2026-11-06,2026-11-08,Tecnicar,18,Max Mokarem,United States,us
+7,Montmelo,2026-11-06,2026-11-08,Campos Racing,8,Jacob Micallef,Malta,mt
+7,Montmelo,2026-11-06,2026-11-08,Campos Racing,10,Luna Fluxà,Spain,es
+7,Montmelo,2026-11-06,2026-11-08,Campos Racing,38,Daniel Kelleher,Ireland,ie
+7,Montmelo,2026-11-06,2026-11-08,Monlau Motorsport,88,Miki Blascos,Spain,es
+7,Montmelo,2026-11-06,2026-11-08,Monlau Motorsport,11,Rahim Alibhai,United States,us
+7,Montmelo,2026-11-06,2026-11-08,Monlau Motorsport,73,Fausto Arnaudo,Argentina,ar
+7,Montmelo,2026-11-06,2026-11-08,Monlau Motorsport,27,Alexander Chartier,Italy,it
+7,Montmelo,2026-11-06,2026-11-08,Monlau Motorsport,27,Yuzuki Sato,Japan,jp
+7,Montmelo,2026-11-06,2026-11-08,Monlau Motorsport,27,Juste Mulder,Netherlands,nl
+7,Montmelo,2026-11-06,2026-11-08,G4 Racing,9,Jean Paul Karras,Greece,gr
+7,Montmelo,2026-11-06,2026-11-08,G4 Racing,12,Philippe Armand Karras,Greece,gr
+7,Montmelo,2026-11-06,2026-11-08,G4 Racing,94,Jorden Moodley,South Africa,za
+7,Montmelo,2026-11-06,2026-11-08,DXR,80,Sebastián Frigolet,Mexico,mx
+7,Montmelo,2026-11-06,2026-11-08,DXR,28,Max Radeck,Portugal,pt
+7,Montmelo,2026-11-06,2026-11-08,DXR,71,Dean Pedersen,United States,us
+7,Montmelo,2026-11-06,2026-11-08,TC Racing,24,Beau Lowette,Belgium,be
+7,Montmelo,2026-11-06,2026-11-08,TC Racing,78,Maria Neto,Portugal,pt
+7,Montmelo,2026-11-06,2026-11-08,TC Racing,5,Sandro Pérez,Spain,es
+7,Montmelo,2026-11-06,2026-11-08,TC Racing,5,Daniel Mota,Spain,es
+7,Montmelo,2026-11-06,2026-11-08,TC Racing,71,Sam Urus,Monaco,mc
+7,Montmelo,2026-11-06,2026-11-08,GRS Team,74,Pablo Riccobono,Spain,es
+7,Montmelo,2026-11-06,2026-11-08,GRS Team,83,Alfons Miettinen,Finland,fi
+7,Montmelo,2026-11-06,2026-11-08,GRS Team,62,André Rodríguez,United States,us
+7,Montmelo,2026-11-06,2026-11-08,GRS Team,96,Ryusho Nakazato,Japan,jp
+7,Montmelo,2026-11-06,2026-11-08,GRS Team,71,Yani Stevenheydens,Belgium,be
