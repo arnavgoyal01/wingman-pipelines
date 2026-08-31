@@ -1,0 +1,49 @@
+circuit_id,circuit_full_name_display,circuit_full_name_normalized,city,country_id,latitude_dd,longitude_dd,circuit_length_m,layout
+1,Dubai Autodrome,dubai_autodrome,Dubai,ARE,25.050158,55.23654,5390,GP Layout
+2,Yas Marina Circuit (Corkscrew Layout),yas_marina_circuit_corkscrew_layout,Abu Dhabi,ARE,24.46694,54.609046,2385,Corkscrew Layout
+3,"Yas Marina Circuit (GP Layout, 5281 m)",yas_marina_circuit_gp_layout_5281_m,Abu Dhabi,ARE,24.471847,54.605802,5281,"GP Layout, 5281 m"
+4,"Yas Marina Circuit (GP Layout, 5554 m)",yas_marina_circuit_gp_layout_5554_m,Abu Dhabi,ARE,24.476836,54.606202,5554,"GP Layout, 5554 m"
+5,Circuit de Spa-Francorchamps,circuit_de_spa_francorchamps,Stavelot,BEL,50.436933,5.970133,7004,Full Circuit
+6,Canadian Tire Motorsport Park,canadian_tire_motorsport_park,Bowmanville,CAN,44.049139,-78.674511,3957,Full Circuit
+7,Streets of Toronto,streets_of_toronto,Toronto,CAN,43.664448,-79.410538,2824,Street Circuit
+8,Nürburgring,nurburgring,Nürburg,DEU,50.331817,6.941255,5137,GP Layout
+9,Circuit Ricardo Tormo,circuit_ricardo_tormo,Cheste,ESP,39.485813,-0.628639,4005,Full Circuit
+10,Circuit de Barcelona-Catalunya,circuit_de_barcelona_catalunya,Barcelona,ESP,41.568786,2.257439,4655,GP Layout
+11,Circuito de Jerez,circuito_de_jerez,Jerez,ESP,36.707795,-6.032514,4423,Full Circuit
+12,Circuito de Navarra,circuito_de_navarra,Los Arcos,ESP,42.561182,-2.164976,3933,Full Circuit
+13,Motorland Aragón,motorland_aragon,Alcañiz,ESP,41.077953,-0.195328,5344,GP Layout
+14,Circuit Bugatti Le Mans,circuit_bugatti_le_mans,Le Mans,FRA,48.007385,0.196785,4185,Bugatti Circuit
+15,Circuit Paul Armagnac,circuit_paul_armagnac,Nogaro,FRA,43.769409,-0.039283,3636,Full Circuit
+16,"Circuit Paul Ricard (GP Layout, 5791 m)",circuit_paul_ricard_gp_layout_5791_m,Le Castellet,FRA,43.251609,5.793311,5791,"GP Layout, 5791 m"
+17,"Circuit Paul Ricard (GP Layout, 5842 m)",circuit_paul_ricard_gp_layout_5842_m,Le Castellet,FRA,43.252496,5.7943,5842,"GP Layout, 5842 m"
+18,Circuit de Dijon-Prenois,circuit_de_dijon_prenois,Dijon,FRA,47.37625,4.896529,3801,Full Circuit
+19,Circuit de Lédenon,circuit_de_ledenon,Lédenon,FRA,43.923976,4.505549,3155,Full Circuit
+20,Circuit de Nevers Magny-Cours,circuit_de_nevers_magny_cours,Magny-Cours,FRA,46.863755,3.166212,4411,Full Circuit
+21,Circuit de la Sarthe,circuit_de_la_sarthe,Le Mans,FRA,47.956087,0.207934,13626,GP Layout
+22,Brands Hatch,brands_hatch,West Kingsdown,GBR,51.357488,0.260006,3908,GP Layout
+23,Donington Park,donington_park,Castle Donington,GBR,52.828352,-1.379287,3999,GP Layout
+24,Knockhill Racing Circuit,knockhill_racing_circuit,Dunfermline,GBR,56.128301,-3.505785,2041,Full Circuit
+25,Oulton Park,oulton_park,Little Budworth,GBR,53.176535,-2.617943,4332,Island Circuit
+26,Silverstone Circuit,silverstone_circuit,Silverstone,GBR,52.071812,-1.014299,5891,International Circuit
+27,Snetterton Circuit,snetterton_circuit,Snetterton,GBR,52.465397,0.947571,4778,300 Layout
+28,Thruxton Circuit,thruxton_circuit,Thruxton,GBR,51.207191,-1.608526,3792,Full Circuit
+29,Autodromo Enzo e Dino Ferrari,autodromo_enzo_e_dino_ferrari,Imola,ITA,44.344298,11.713414,4909,Full Circuit
+30,Autodromo Internazionale del Mugello,autodromo_internazionale_del_mugello,Mugello,ITA,43.9975,11.3714,5245,Full Circuit
+31,Autodromo Nazionale Monza,autodromo_nazionale_monza,Monza,ITA,45.62065,9.28927,5793,GP Layout
+32,Autodromo Vallelunga Piero Taruffi,autodromo_vallelunga_piero_taruffi,Vallelunga,ITA,42.16012,12.37964,4085,GP Layout
+33,Misano World Circuit Marco Simoncelli,misano_world_circuit_marco_simoncelli,Misano,ITA,43.959823,12.68532,4226,GP Layout
+34,Sepang International Circuit,sepang_international_circuit,Sepang,MYS,2.761171,101.736952,5543,GP Layout
+35,"Circuit Zandvoort (GP Layout, 4259 m)",circuit_zandvoort_gp_layout_4259_m,Zandvoort,NLD,52.389471,4.542885,4259,"GP Layout, 4259 m"
+36,"Circuit Zandvoort (GP Layout, 4307 m)",circuit_zandvoort_gp_layout_4307_m,Zandvoort,NLD,52.384313,4.534459,4307,"GP Layout, 4307 m"
+37,Autódromo Internacional do Algarve,autodromo_internacional_do_algarve,Portimão,PRT,37.230364,-8.627352,4653,Full Circuit
+38,Lusail International Circuit,lusail_international_circuit,Lusail,QAT,25.489658,51.452885,5419,GP Layout
+39,Barber Motorsports Park,barber_motorsports_park,Birmingham,USA,33.533245,-86.61878,3733,Full Circuit
+40,Indianapolis Motor Speedway Road Course,indianapolis_motor_speedway_road_course,Indianapolis,USA,39.796248,-86.234816,4192,Road Course
+41,Lucas Oil Raceway,lucas_oil_raceway,Brownsburg,USA,39.812689,-86.340919,2500,Oval
+42,Mid-Ohio Sports Car Course,mid_ohio_sports_car_course,Lexington,USA,40.689009,-82.636355,3731,Full Circuit
+43,NOLA Motorsports Park,nola_motorsports_park,New Orleans,USA,29.885488,-90.197218,2661,Full Circuit
+44,New Jersey Motorsports Park,new_jersey_motorsports_park,Millville,USA,39.360364,-75.066322,3219,Thunderbolt Circuit
+45,Portland International Raceway,portland_international_raceway,Portland,USA,45.59661,-122.694917,3148,Full Circuit
+46,Road America,road_america,Elkhart Lake,USA,43.799168,-87.992318,6515,Full Circuit
+47,Streets of St. Petersburg,streets_of_st_petersburg,St. Petersburg,USA,27.769468,-82.633804,2768,Street Circuit
+48,Virginia International Raceway,virginia_international_raceway,Alton,USA,36.562447,-79.206345,5265,Full Circuit

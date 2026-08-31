@@ -1,0 +1,4 @@
+series_id,season_label,round_number,session_type,session_number,circuit_id,session_date,session_datetime_local,sport,discipline,category,source_url,source_collector
+64,2026,5,race,1,471,2026-09-06,,motorsport,single_seater,formula_4,https://motorsportstats.com/results/formula-4-italian-championship/2026/imola/info,arnav
+64,2026,6,race,1,674,2026-09-20,,motorsport,single_seater,formula_4,https://motorsportstats.com/results/formula-4-italian-championship/2026/misano-2/info,arnav
+64,2026,7,race,1,746,2026-10-25,,motorsport,single_seater,formula_4,https://motorsportstats.com/results/formula-4-italian-championship/2026/mugello-2/info,arnav
